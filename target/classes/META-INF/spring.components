@@ -1,0 +1,2 @@
+fproject.fproject.App=org.springframework.stereotype.Component
+fproject.fproject.GreetingController=org.springframework.stereotype.Component
